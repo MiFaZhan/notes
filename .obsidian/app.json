@@ -2,5 +2,6 @@
   "strictLineBreaks": true,
   "showUnsupportedFiles": true,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newFileLocation": "current"
 }
