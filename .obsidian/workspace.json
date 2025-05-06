@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9c554ddce40d854",
+        "id": "22c107c6eae0f7a5",
         "type": "tabs",
         "children": [
           {
-            "id": "0701955fd2c9f2db",
+            "id": "3c24f9cfb1974e65",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "搭讪日记/引言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "引言 的出链列表"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "搭讪日记/引言.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "引言 的大纲"
             }
           },
           {
@@ -163,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,13 +178,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0701955fd2c9f2db",
+  "active": "3c24f9cfb1974e65",
   "lastOpenFiles": [
+    "搭讪日记/引言/file-20250506162114941.png",
+    "搭讪日记/2025-05-06.md",
+    "搭讪日记/2025-05-07.md",
+    "搭讪日记/引言.md",
     "搭讪日记/引言/file-20250506161110820.png",
     "搭讪日记/引言",
     "2025-05-06.md",
     "未命名.canvas",
-    "搭讪日记/引言.md",
     "搭讪日记"
   ]
 }
