@@ -11,14 +11,10 @@
             "id": "490b6550e5252aa4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-05-06.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-05-06"
+              "title": "新标签页"
             }
           }
         ]
@@ -190,8 +186,12 @@
   },
   "active": "490b6550e5252aa4",
   "lastOpenFiles": [
-    "日记/引言.md",
     "日记/2025-05-06.md",
+    "日记/assets/2025-05-07/Screenshot_2025-05-07-23-25-38-417_com.ss.android.ugc.aweme.jpg",
+    "日记/assets/2025-05-07",
+    "日记/2025-05-07.md",
+    "名言.md",
+    "日记/引言.md",
     "日记/assets/2025-05-06/file-20250506175616366.png",
     "日记/assets/2025-05-06",
     "日记/assets",
@@ -218,7 +218,6 @@
     "movie/沐浴之王.md",
     "assets/p2627788612.jpg",
     "movie/走走停停.md",
-    "assets/p2907440658.jpg",
     "movie/蓦然回首.md",
     "movie/楚门的世界.md",
     "movie/布朗克斯的故事.md",
@@ -227,8 +226,6 @@
     "movie/千与千寻 千.md",
     "movie/你的名字。 君.md",
     "movie/导火线 導火綫.md",
-    "movie/高山下的花环.md",
-    "movie/三大队.md",
     "movie",
     "assets",
     "豆瓣",
